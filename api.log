@@ -1,0 +1,9 @@
+{"level":"error","message":"user not created! - connect ECONNREFUSED 127.0.0.1:5432","service":"user-service","timestamp":"2022-01-25T12:36:21.473Z"}
+{"level":"error","message":"couldn't retrieve users - connect ECONNREFUSED 127.0.0.1:5432","service":"user-service","timestamp":"2022-01-25T12:36:29.658Z"}
+{"level":"error","message":"couldn't update user having id:2! - connect ECONNREFUSED 127.0.0.1:5432","service":"user-service","timestamp":"2022-01-25T12:37:03.020Z"}
+{"level":"warn","message":"Custom msg!!!","service":"user-service","timestamp":"2022-01-27T06:40:12.646Z"}
+{"level":"error","message":"Error msg here!!!","service":"user-service","timestamp":"2022-01-27T06:40:12.648Z"}
+{"level":"warn","message":"users not found!","service":"user-service","timestamp":"2022-01-27T08:39:00.239Z"}
+{"level":"warn","message":"users not found!","service":"user-service","timestamp":"2022-01-27T08:39:10.614Z"}
+{"level":"warn","message":"user not found having id:3!","service":"user-service","timestamp":"2022-01-27T08:39:53.232Z"}
+{"level":"warn","message":"users not found to remove","service":"user-service","timestamp":"2022-01-27T08:40:38.182Z"}
