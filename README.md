@@ -20,7 +20,7 @@
 * To check if your logstash.conf file is correct or not, use this command:
   * _logstash -f_ <_absolute-path-of-your-conf-file> --config.test_and_exit_
 * To run your logstash.conf file on edit, use this command:
-  * _logstash -f_ <_absolute-path-of-your-conf-file>
+  * _logstash -f_ <_absolute-path-of-your-conf-file>_
 * To autorun your logstash.conf file on edit, use this command:
   * _logstash -f_ <_absolute-path-of-your-conf-file> --config.reload.automatic_
 * Find all logstash commands here:
@@ -33,7 +33,7 @@
   * _(Management) Stack Management &#8594; (Kibana) Index Patterns_
 * To view your logs:
   * _(Management) Dev Tools_
-  * __Command:__ _GET_ /<_your index>/_search_
+  * __Command:__ _GET_ /<_your index>/search_
 * To view specific fields or search something within logs:
   * _(Analytics) Discover_
   * Update date and time from top-left side and __DON’T__ forget to click on the update button at this moment. You need to update each time you change the date and time.
